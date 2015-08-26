@@ -60,4 +60,4 @@ int main()
     char *st;
     st = countAndSay(n);
     printf("%s\n",st);
-}
+}x`x`
