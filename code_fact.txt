@@ -1,0 +1,4 @@
+1. Take full sentence as a input from the user.
+scanf ("%[^\n]%*c", name);
+
+
